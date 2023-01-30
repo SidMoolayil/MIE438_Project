@@ -1,2 +1,2 @@
 # MIE438_Project
-Industrial Sorter Project
+Industrial Sorter Group Project
